@@ -13,7 +13,7 @@ body {
 }
 
 .bg {
-    width: 1160px;
+    width: 1200px;
     height: 2000px;
     background: #ee9ca7;
     background: -webkit-linear-gradient(top left, #ee9ca7 0%, #ee9ca7 100%);
@@ -289,7 +289,7 @@ body {
 
 .happy {
     position: absolute;
-    left: 41%;
+    left: 48%;
     top: 49%;
     opacity: 1;
     animation: happybirthdays 10s;
@@ -339,7 +339,7 @@ body {
     z-index: 100
 }
 
-.button-style1 {
+.button-style1{
     position: absolute;
     left: 20%;
     animation: btn1 15s
@@ -347,7 +347,7 @@ body {
 
 .button-style2 {
     position: absolute;
-    left: 68%;
+    left: 80%;
     animation: btn2 15s
 }
 
